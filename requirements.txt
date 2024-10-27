@@ -1,0 +1,6 @@
+python-dotenv
+openai
+chromium
+git+https://github.com/openai/swarm.git
+beautifulsoup4
+tabulate
